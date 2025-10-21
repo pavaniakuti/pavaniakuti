@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pavani Akuti
 
-🎓 Final Year B.Tech CSE (AI & ML) | CGPA: 8.95  
+🎓 Final Year B.Tech CSE (AI & ML) | CGPA: 9.03
 💡 Passionate about Data Science, Machine Learning, and AI  
 🌐 Based in Hyderabad, Telangana, India  
 📫 Email: pavaniakuti270@gmail.com
