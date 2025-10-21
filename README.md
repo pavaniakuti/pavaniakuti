@@ -9,9 +9,9 @@
 
 ## 🛠️ Skills & Tools
 
-- Programming: Python, Java, SQL  
-- Data Science: Pandas, NumPy, Matplotlib, Data Cleaning, EDA, Data Visualization  
-- Machine Learning: Scikit-learn, TF-IDF, Model Evaluation  
+- Programming: Python, SQL  
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn 
+- Technologies: Machine Learning, Artificial Intelligence, Data Science   
 - Soft Skills: Problem Solving, Communication, Presentation Skills
 
 ---
@@ -54,7 +54,7 @@ Implemented RNN to classify human emotions from text/speech data.
 ## 🌱 Currently Learning
 
 - Deep Learning  
-- Power BI  
+- Java  
 - Git & GitHub  
 - Resume & Interview Best Practices
 
